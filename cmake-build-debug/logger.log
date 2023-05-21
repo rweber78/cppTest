@@ -1,0 +1,294 @@
+Jun 13 17:49:12.701 Input parameters:
+Jun 13 17:49:12.702   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+Jun 13 17:49:12.702 vector size before erase: 100
+Jun 13 17:49:12.702 vector size after erase: 50
+Jun 13 17:49:12.702 50
+Jun 13 17:49:12.702 51
+Jun 13 17:49:12.702 52
+Jun 13 17:49:12.702 53
+Jun 13 17:49:12.702 54
+Jun 13 17:49:12.702 55
+Jun 13 17:49:12.702 56
+Jun 13 17:49:12.702 57
+Jun 13 17:49:12.702 58
+Jun 13 17:49:12.702 59
+Jun 13 17:49:12.702 60
+Jun 13 17:49:12.702 61
+Jun 13 17:49:12.702 62
+Jun 13 17:49:12.702 63
+Jun 13 17:49:12.702 64
+Jun 13 17:49:12.702 65
+Jun 13 17:49:12.702 66
+Jun 13 17:49:12.702 67
+Jun 13 17:49:12.702 68
+Jun 13 17:49:12.702 69
+Jun 13 17:49:12.702 70
+Jun 13 17:49:12.702 71
+Jun 13 17:49:12.702 72
+Jun 13 17:49:12.702 73
+Jun 13 17:49:12.702 74
+Jun 13 17:49:12.702 75
+Jun 13 17:49:12.702 76
+Jun 13 17:49:12.702 77
+Jun 13 17:49:12.702 78
+Jun 13 17:49:12.702 79
+Jun 13 17:49:12.702 80
+Jun 13 17:49:12.702 81
+Jun 13 17:49:12.702 82
+Jun 13 17:49:12.702 83
+Jun 13 17:49:12.702 84
+Jun 13 17:49:12.702 85
+Jun 13 17:49:12.702 86
+Jun 13 17:49:12.702 87
+Jun 13 17:49:12.702 88
+Jun 13 17:49:12.702 89
+Jun 13 17:49:12.702 90
+Jun 13 17:49:12.702 91
+Jun 13 17:49:12.702 92
+Jun 13 17:49:12.702 93
+Jun 13 17:49:12.702 94
+Jun 13 17:49:12.702 95
+Jun 13 17:49:12.702 96
+Jun 13 17:49:12.702 97
+Jun 13 17:49:12.702 98
+Jun 13 17:49:12.702 99
+Jun 13 17:49:12.702  CHRON: CHRONO END: main : duration = 0.000826 s
+Aug 01 15:14:38.013 Input parameters:
+Aug 01 15:14:38.016   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Aug 01 15:14:38.016 vector size before erase: 100
+Aug 01 15:14:38.016 vector size after erase: 50
+Aug 01 15:14:38.016 D
+Aug 01 15:14:38.016 D
+Aug 01 15:14:38.016 D
+Aug 01 15:14:38.016 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.017 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.018 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.019 D
+Aug 01 15:14:38.020  CHRON: CHRONO END: main : duration = 0.006001 s
+Aug 01 15:16:52.449 Input parameters:
+Aug 01 15:16:52.451   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Aug 01 15:16:52.451 vector size before erase: 100
+Aug 01 15:16:52.451 vector size after erase: 50
+Aug 01 15:16:52.451 D
+Aug 01 15:16:52.451 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.452 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.453 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.454 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.455 D
+Aug 01 15:16:52.456 D
+Aug 01 15:16:52.456  CHRON: CHRONO END: main : duration = 0.006596 s
+Aug 01 15:28:37.473 Input parameters:
+Aug 01 15:28:37.475   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Aug 01 15:28:37.475 vector size before erase: 100
+Aug 01 15:28:37.475 vector size after erase: 50
+Aug 01 15:28:37.476 50
+Aug 01 15:28:37.476 51
+Aug 01 15:28:37.476 52
+Aug 01 15:28:37.476 53
+Aug 01 15:28:37.476 54
+Aug 01 15:28:37.476 55
+Aug 01 15:28:37.477 56
+Aug 01 15:28:37.477 57
+Aug 01 15:28:37.477 58
+Aug 01 15:28:37.477 59
+Aug 01 15:28:37.477 60
+Aug 01 15:28:37.477 61
+Aug 01 15:28:37.477 62
+Aug 01 15:28:37.477 63
+Aug 01 15:28:37.477 64
+Aug 01 15:28:37.477 65
+Aug 01 15:28:37.477 66
+Aug 01 15:28:37.477 67
+Aug 01 15:28:37.477 68
+Aug 01 15:28:37.478 69
+Aug 01 15:28:37.478 70
+Aug 01 15:28:37.478 71
+Aug 01 15:28:37.478 72
+Aug 01 15:28:37.478 73
+Aug 01 15:28:37.478 74
+Aug 01 15:28:37.478 75
+Aug 01 15:28:37.478 76
+Aug 01 15:28:37.478 77
+Aug 01 15:28:37.479 78
+Aug 01 15:28:37.479 79
+Aug 01 15:28:37.479 80
+Aug 01 15:28:37.479 81
+Aug 01 15:28:37.479 82
+Aug 01 15:28:37.479 83
+Aug 01 15:28:37.479 84
+Aug 01 15:28:37.479 85
+Aug 01 15:28:37.479 86
+Aug 01 15:28:37.479 87
+Aug 01 15:28:37.479 88
+Aug 01 15:28:37.479 89
+Aug 01 15:28:37.479 90
+Aug 01 15:28:37.479 91
+Aug 01 15:28:37.479 92
+Aug 01 15:28:37.479 93
+Aug 01 15:28:37.479 94
+Aug 01 15:28:37.479 95
+Aug 01 15:28:37.479 96
+Aug 01 15:28:37.480 97
+Aug 01 15:28:37.480 98
+Aug 01 15:28:37.480 99
+Aug 01 15:28:37.480  CHRON: CHRONO END: main : duration = 0.006347 s
+Aug 01 15:37:25.440 Input parameters:
+Aug 01 15:37:25.442   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Aug 01 15:37:25.442  CHRON: CHRONO END: main : duration = 0.002069 s
+Sep 21 12:20:07.839 Input parameters:
+Sep 21 12:20:07.841   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Sep 21 12:20:07.842  CHRON: CHRONO END: main : duration = 0.003347 s
+Sep 21 12:40:51.609 Input parameters:
+Sep 21 12:40:51.611   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Sep 21 12:50:01.418 Input parameters:
+Sep 21 12:50:01.420   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Sep 21 12:53:54.022 Input parameters:
+Sep 21 12:53:54.024   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Sep 21 12:54:27.556 Input parameters:
+Sep 21 12:54:27.558   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Sep 21 12:54:55.353 Input parameters:
+Sep 21 12:54:55.355   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+Nov 14 12:07:13.223 Input parameters:
+Nov 14 12:07:13.226   param[0] = C:\Users\RJWEBER\source\cpp\cppTest\cmake-build-debug\cppTest.exe
+May 21 13:14:33.198 Input parameters:
+May 21 13:14:33.200   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:14:33.200   param[1] = --gtest_list_tests
+May 21 13:14:33.200   param[2] = --gtest_filter=*
+May 21 13:14:34.387  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.186692 s
+May 21 13:14:34.481  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.094260 s
+May 21 13:14:34.481  CHRON: CHRONO END: main : duration = 1.282682 s
+May 21 13:14:34.485 Input parameters:
+May 21 13:14:34.486   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:14:34.486   param[1] = --gtest_filter=*
+May 21 13:14:34.486   param[2] = --gtest_color=no
+May 21 13:14:35.665  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.179245 s
+May 21 13:14:35.760  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.094371 s
+May 21 13:14:35.760  CHRON: CHRONO END: main : duration = 1.274218 s
+May 21 13:32:08.278 Input parameters:
+May 21 13:32:08.279   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:32:08.279   param[1] = --gtest_list_tests
+May 21 13:32:08.279   param[2] = --gtest_filter=*
+May 21 13:32:09.708  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.428890 s
+May 21 13:32:09.809  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.100621 s
+May 21 13:32:09.809  CHRON: CHRONO END: main : duration = 1.530852 s
+May 21 13:32:09.814 Input parameters:
+May 21 13:32:09.815   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:32:09.815   param[1] = --gtest_filter=*
+May 21 13:32:09.815   param[2] = --gtest_color=no
+May 21 13:32:11.012  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.197329 s
+May 21 13:32:11.108  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.095895 s
+May 21 13:32:11.108  CHRON: CHRONO END: main : duration = 1.294293 s
+May 21 13:32:40.880 Input parameters:
+May 21 13:32:40.881   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:32:40.881   param[1] = --gtest_list_tests
+May 21 13:32:40.881   param[2] = --gtest_filter=*
+May 21 13:32:42.095  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.214627 s
+May 21 13:32:42.194  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.098374 s
+May 21 13:32:42.194  CHRON: CHRONO END: main : duration = 1.313904 s
+May 21 13:32:42.200 Input parameters:
+May 21 13:32:42.200   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:32:42.200   param[1] = --gtest_filter=*
+May 21 13:32:42.200   param[2] = --gtest_color=no
+May 21 13:32:43.385  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.185377 s
+May 21 13:32:43.480  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.094543 s
+May 21 13:32:43.480  CHRON: CHRONO END: main : duration = 1.280518 s
+May 21 13:32:52.092 Input parameters:
+May 21 13:32:52.093   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:32:52.093   param[1] = --gtest_list_tests
+May 21 13:32:52.093   param[2] = --gtest_filter=*
+May 21 13:32:53.276  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.183767 s
+May 21 13:32:53.371  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.094207 s
+May 21 13:32:53.371  CHRON: CHRONO END: main : duration = 1.278768 s
+May 21 13:32:53.375 Input parameters:
+May 21 13:32:53.375   param[0] = /Users/rweber/source/cppTest/cmake-build-debug/cppTest
+May 21 13:32:53.375   param[1] = --gtest_filter=*
+May 21 13:32:53.375   param[2] = --gtest_color=no
+May 21 13:32:54.553  CHRON: CHRONO END: 100000000 Dynamic Casts : duration = 1.177494 s
+May 21 13:32:54.648  CHRON: CHRONO END: 100000000 Static Casts : duration = 0.095066 s
+May 21 13:32:54.648  CHRON: CHRONO END: main : duration = 1.273183 s
