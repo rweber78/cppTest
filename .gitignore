@@ -1,3 +1,6 @@
 /.DS_Store
 /.idea
 /logger.log
+
+build
+cmake-build-debug
