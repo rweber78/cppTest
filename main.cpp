@@ -96,7 +96,6 @@ void stringFormatTest()
     std::cout << m2.substr(n, 15) << std::endl;
 }
 
-#if 0
 //-----------------------------------------------------------------------------
 
 void fileNameTest()
@@ -113,7 +112,6 @@ void fileNameTest()
         baseName = filePath.string();
     }
 }
-#endif
 
 //-----------------------------------------------------------------------------
 
@@ -344,33 +342,33 @@ void testDynamicCast()
 {
     class IShape
     {
-        public:
-            virtual double getArea() = 0;
-            virtual std::string name() = 0;
+    public:
+        virtual double getArea() = 0;
+        virtual std::string name() = 0;
     };
     class Square : public IShape
     {
-        public:
-            double getArea() override
-            {
-                return 2.2;
-            }
-            std::string name() override
-            {
-                return "Square";
-            }
+    public:
+        double getArea() override
+        {
+            return 2.2;
+        }
+        std::string name() override
+        {
+            return "Square";
+        }
     };
     class Circle : public IShape
     {
-        public:
-            double getArea() override
-            {
-                return 3.14159;
-            }
-            std::string name() override
-            {
-                return "Circle";
-            }
+    public:
+        double getArea() override
+        {
+            return 3.14159;
+        }
+        std::string name() override
+        {
+            return "Circle";
+        }
     };
 
     IShape *shape = new Circle();
@@ -382,14 +380,14 @@ void testDynamicCast()
         Chrono dynamicCast(sMax + " Dynamic Casts");
         for (uint32_t i = 0; i < max; i++)
         {
-            Circle *circle = dynamic_cast<Circle*>(shape);
+            Circle *circle = dynamic_cast<Circle *>(shape);
         }
     }
     {
         Chrono staticCast(sMax + " Static Casts");
         for (uint32_t i = 0; i < max; i++)
         {
-            Circle *circle = static_cast<Circle*>(shape);
+            Circle *circle = static_cast<Circle *>(shape);
         }
     }
 }
@@ -420,24 +418,24 @@ int main(int argc, char **argv)
         LOG_CONSOLE("  param[%d] = %s", i, p);
         if (allowed.find(cmd) != allowed.end())
         {
-           selected.emplace(cmd);
+            selected.emplace(cmd);
         }
     }
 
     std::cout << std::to_string(3.1415987) << std::endl;
 
-    if (selected.find("uniquePtr") != selected.end())
-    {
-       testUniquePtr();
-    }
+    // if (selected.find("uniquePtr") != selected.end())
+    // {
+    //     testUniquePtr();
+    // }
 
-    testOperator();
+    // testOperator();
 
-    testDynamicCast();
+    // testDynamicCast();
 
-    //    testVectorErase();
+    // testVectorErase();
 
-    //    testLoopCount();
+    // testLoopCount();
 
     // testBitShift();
 
