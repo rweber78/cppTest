@@ -5,12 +5,14 @@
 
 struct IsapiWebRequest
 {
-   std::string name() const { return "ISAPI"; }
+   std::string name() const;
+   void load(const std::string& xml);
 };
 
 struct CrowWebRequest
 {
-   std::string name() const { return "Crow"; }
+   std::string name() const;
+   void load(const std::string& xml);
 };
 
 class WebRequest
@@ -20,6 +22,7 @@ class WebRequest
       virtual ~WebRequestConcept() = default;
 
       [[nodiscard]] virtual std::string name() const = 0;
+      virtual void load(const std::string& xml) = 0;
    };
 
    template <typename T>
@@ -32,6 +35,7 @@ class WebRequest
       ~WebRequestModel() override = default;
 
       [[nodiscard]] std::string name() const override { return object.name(); }
+      void load(const std::string& xml) override { object.load(xml); }
 
    private:
       T object;
@@ -45,4 +49,6 @@ public:
        : fRequest(new WebRequestModel<T>(obj)) {}
 
    [[nodiscard]] std::string name() const { return fRequest->name(); }
+   void load(const std::string& xml) { fRequest->load(xml); }
+
 };

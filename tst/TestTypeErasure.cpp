@@ -17,11 +17,13 @@ TEST_F(TypeErasureFixture, ShowTypeErasure)
 {
    Chrono testChrono("Test TypeErasure");
 
+   std::string xml{"Test string"};
+
    WebRequest request1 = WebRequest(CrowWebRequest());
-   printf("Name 1 = %s\n", request1.name().c_str());
+   request1.load(xml);
    EXPECT_EQ("Crow", request1.name());
 
    WebRequest request2 = WebRequest(IsapiWebRequest());
-   printf("Name 2 = %s\n", request2.name().c_str());
+   request2.load(xml);
    EXPECT_EQ("ISAPI", request2.name());
 }
