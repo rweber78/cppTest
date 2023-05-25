@@ -19,9 +19,9 @@
 #include <string>
 #include <vector>
 
-typedef std::vector<uint8_t> ByteVector;
-typedef std::set<uint8_t> ByteSet;
-typedef std::map<uint8_t, uint8_t> ByteCounts;
+using ByteVector = std::vector<uint8_t>;
+using ByteSet = std::set<uint8_t>;
+using ByteCounts = std::map<uint8_t, uint8_t>;
 
 //-----------------------------------------------------------------------------
 
@@ -98,6 +98,7 @@ void stringFormatTest()
 
 //-----------------------------------------------------------------------------
 
+#if 0
 void fileNameTest()
 {
     std::string name = "/users/home/rweber/testFile.dat";
@@ -112,7 +113,7 @@ void fileNameTest()
         baseName = filePath.string();
     }
 }
-
+#endif
 //-----------------------------------------------------------------------------
 
 void testBitShift()

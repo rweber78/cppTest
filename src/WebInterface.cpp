@@ -9,7 +9,7 @@ std::string IsapiWebRequest::name() const
 
 void IsapiWebRequest::load(const std::string &xml)
 {
-   LOG_CONSOLE("Loading usapiweb: %s", xml.c_str());
+   LOG_CONSOLE("Loading isapiweb: %s", xml.c_str());
 }
 
 std::string CrowWebRequest::name() const

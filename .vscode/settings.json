@@ -28,5 +28,6 @@
    "sonarlint.connectedMode.project": {
       "connectionId": "",
       "projectKey": ""
-   }
+   },
+   "C_Cpp.default.compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\bin\\clang-cl.exe"
 }
